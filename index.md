@@ -8,8 +8,8 @@ There will be several homework assignments done for this course.
 * [Description of Homework 0](files/IE582_Fall21_Homework_0.pdf)
 
 ### Homework Assignment 1
-* [Description of Homework 1](files/HW-1/IE582_Fall21_Homework_1.pdf)
+* [Description of Homework 1](files/HW-1/IE582_Fall21_Homework1.pdf)
 * [Curse of dimensionality and effect of sample size & Practicing data manipulation skills on images](files/HW-1/HW1.html)
 
 ### Homework Assignment 2
-* [Description of Homework 2](files/HW-2/IE582_Fall21_Homework_2.pdf)
+* [Description of Homework 2](files/HW-2/IE582_Fall21_Homework2.pdf)
