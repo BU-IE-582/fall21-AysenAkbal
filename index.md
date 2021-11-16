@@ -13,3 +13,5 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 2
 * [Description of Homework 2](files/HW-2/IE582_Fall21_Homework2.pdf)
+* [Dimensionality Reduction for Time Series Data](files/HW-2/IE-582.HW2.html)
+* [HW-2 Codes](files/HW-2/IE-582.HW2.ipynb)
