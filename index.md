@@ -18,4 +18,4 @@ There will be several homework assignments done for this course.
 * [HW-2 Codes](files/HW-2/IE-582.HW2.ipynb)
 
 ### Homework Assignment 3
-* [Description of Homework 3](files/HW-2/IE582_Fall21_Homework3.pdf)
+* [Description of Homework 3](files/HW-3/IE582_Fall21_Homework3.pdf)
