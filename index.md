@@ -19,3 +19,5 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 3
 * [Description of Homework 3](files/HW-3/IE582_Fall21_Homework3.pdf)
+* [Project Report of Homework 3](files/HW-3/HW-3.final.html)
+* [Project Code of Homework 3](files/HW-3/HW-3.final.ipynb)
