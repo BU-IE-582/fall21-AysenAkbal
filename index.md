@@ -23,6 +23,6 @@ There will be several homework assignments done for this course.
 * [Project Code of Homework 3](files/HW-3/HW-3.final.ipynb)
 
 ### Homework Assignment 4
-* [Description of Homework 3](files/HW-4/IE582_Fall21_Homework4.pdf)
-* [Project Report of Homework 3](files/HW-4/HW_4.html)
-* [Project Code of Homework 3](files/HW-4/HW_4.ipynb)
+* [Description of Homework 4](files/HW-4/IE582_Fall21_Homework4.pdf)
+* [Project Report of Homework 4](files/HW-4/HW_4.html)
+* [Project Code of Homework 4](files/HW-4/HW_4.ipynb)
