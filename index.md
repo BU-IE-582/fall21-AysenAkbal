@@ -19,10 +19,16 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 3
 * [Description of Homework 3](files/HW-3/IE582_Fall21_Homework3.pdf)
-* [Project Report of Homework 3](files/HW-3/HW-3.final.html)
-* [Project Code of Homework 3](files/HW-3/HW-3.final.ipynb)
+* [Report of Homework 3](files/HW-3/HW-3.final.html)
+* [HW-3 Codes](files/HW-3/HW-3.final.ipynb)
 
 ### Homework Assignment 4
 * [Description of Homework 4](files/HW-4/IE582_Fall21_Homework4.pdf)
-* [Project Report of Homework 4](files/HW-4/HW_4.html)
-* [Project Code of Homework 4](files/HW-4/HW_4.ipynb)
+* [Report of Homework 4](files/HW-4/HW_4.html)
+* [HW-4 Codes](files/HW-4/HW_4.ipynb)
+
+
+### Project
+* [Description of Project](files/Project/IE582_Fall21_Project.pdf)
+* [Project Report](files/Project/ProjectReport.html)
+* [Project Code](files/Project/ProjectReport.ipynb)
